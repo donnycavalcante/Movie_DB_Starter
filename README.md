@@ -1,1 +1,3 @@
-# Movie_DB_Starter
+```sh
+npm install react-router-dom@6
+```
